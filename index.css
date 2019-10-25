@@ -17,7 +17,7 @@ margin:0px;
 {
     font-family: serif;
     text-align: center;
-    margin-top:8%;
+    margin-top:3%;
     color:rgba(0,0,0,0.5);
     display:block;
     letter-spacing:.2em;
@@ -38,6 +38,7 @@ margin:0px;
 {
     background-color:white;
     border:1px solid black;
+    font-size: 1.2em;
     border-radius:15px;
     position:fixed;
     min-width:40%;
@@ -53,6 +54,7 @@ margin:0px;
 {
     background-color:white;
     border:1px solid black;
+    font-size: 1.2em;
     border-radius:15px;
     position:fixed;
     min-width:40%;
@@ -68,6 +70,7 @@ margin:0px;
 {
     background-color:white;
     border:1px solid black;
+    font-size: 1.2em;
     border-radius:15px;
     position:fixed;
     min-width:40%;
@@ -95,14 +98,17 @@ margin:0px;
 
 h3 
 {
-font-family:serif;
-font-weight:bold;
-color: rgba(0,0,0,.5);
-text-align: center; 
-text-transform: none; 
-letter-spacing: 0.01em;
-position:fixed; 
-top:40%;    
+    position:fixed; 
+    top:40%; 
+    left: 30%;   
+    max-width: 45%;
+    font-family:serif;
+    font-weight:bold;
+    font-size: 1.5em;
+    color: rgba(0,0,0,.5); 
+    text-transform: none; 
+    letter-spacing: 0.01em;
+
 }
 
 .inp1
